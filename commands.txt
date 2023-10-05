@@ -2,4 +2,3 @@ git clone remote path
 git add -A 
 git commit -m "your message"
 git push orgin main/master
-git status
